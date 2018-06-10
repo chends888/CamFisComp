@@ -1,0 +1,8 @@
+Documentação do projeto COM 4: Fragmenteção
+
+Client:
+-Número de pacotes enviados
+-Indicar índice e tamanho de cada pacote sendo enviado
+
+Server:
+-Indicar quantos pacotes recebeu e tamanho total 
